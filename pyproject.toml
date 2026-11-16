@@ -1,0 +1,6 @@
+[project]
+name = "http-redirect-map"
+version = "0.1.0"
+description = "Trace HTTP redirect chains with status codes, relative Location resolution, loop detection, and HTTPS-to-HTTP downgrade warnings."
+requires-python = ">=3.10"
+license = "MIT"
